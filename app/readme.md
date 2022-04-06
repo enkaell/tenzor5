@@ -1,1 +1,0 @@
-#tenzor5-homework
